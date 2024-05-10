@@ -1,0 +1,15 @@
+{
+   "color": {
+      "bgloader": {
+         "r": 35,
+         "g": 35,
+         "b": 37
+      },
+      "bgmain": {
+         "r": 26,
+         "g": 26,
+         "b": 26
+      }
+   },
+   "website": "enable"
+}
